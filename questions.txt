@@ -1,0 +1,12 @@
+1) Program to display fibonacci series
+2) Factorial
+3) Leap year or not
+4)Sum and Average of n numbers using array
+5) Accept n numbers and find the largest and its position
+6) pointers implementation
+7) program to implement stack using array
+8) Linked list implementation
+9) Stack implementation using linked list
+10) Program to implement dynamic memory allocation
+11) Program to implement queue using Array
+12) Program to implement Queue using Linked list
